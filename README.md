@@ -10,6 +10,16 @@ License
 Introduction
 The Airbnb NYC Tableau Project offers an interactive visualization dashboard built using Tableau software. It provides users with insights into various aspects of Airbnb listings and bookings within New York City. This dashboard is designed to help users explore and analyze data related to pricing, availability, and trends in the Airbnb market.
 
+Accessing the Dashboard
+To access the Airbnb NYC Tableau dashboard, follow these steps:
+
+Visit the Dashboard URL:
+Airbnb NYC Tableau Dashboard
+Login (if required):
+Depending on the settings of the dashboard, you may need to log in using your Tableau account credentials.
+Explore the Dashboard:
+Once logged in, you'll be presented with the interactive dashboard interface. Navigate through the different tabs and visualizations to explore the data and gain insights into Airbnb listings and bookings in New York City.
+Usage
 The Tableau dashboard provides various features and functionalities to facilitate data exploration and analysis:
 
 Overview: Gain a high-level summary of key metrics such as average nightly rates, occupancy rates, and listing counts.
